@@ -8,7 +8,7 @@ app.use(express.json());
 CONFIG
 ====================================================== */
 const AUTH_KEY_FILE = "/root/.key";
-const PORT = process.env.PORT || 5888;
+const PORT = process.env.PORT || 5889;
 
 /* ======================================================
 UTIL: LOAD AUTH KEY
